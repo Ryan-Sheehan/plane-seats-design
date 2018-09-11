@@ -16,10 +16,10 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Archivo Black", Helvetica, sans-serif;
+  font-family: Helvetica Neue, sans-serif;
   font-size: 42px;
   font-weight: normal;
-  color: #000; }
+  color: #ffcb04; }
 
 ::selection {
   color: #000;
