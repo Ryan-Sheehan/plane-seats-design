@@ -62,10 +62,12 @@ body {
   font-size: 1.6em; }
 
 .reveal h3 {
-  font-size: 1.3em; }
+  font-size: 1.3em; 
+  color: #ffcb04; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1em;
+  color: #ffcb04; }
 
 .reveal h1 {
   text-shadow: none; }
