@@ -63,11 +63,13 @@ body {
 
 .reveal h3 {
   font-size: 1.3em; 
-  color: #ffcb04; }
+  color: #ffcb04;
+  font-weight: 400; }
 
 .reveal h4 {
   font-size: 1em;
-  color: #ffcb04; }
+  color: #ffcb04;
+  font-weight: 400; }
 
 .reveal h1 {
   text-shadow: none; }
