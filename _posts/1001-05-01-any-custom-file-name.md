@@ -2,5 +2,5 @@
 layout: post
 ---
 
-![Tisch Roof](https://cdn.rawgit.com/Ryan-Sheehan/bad-design-presentation/cd82ebb2/images/tisch_roof.jpg)
+![Tisch Roof](https://cdn.rawgit.com/Ryan-Sheehan/bad-design-presentation/31520f48/images/no_roof.jpg)
 
