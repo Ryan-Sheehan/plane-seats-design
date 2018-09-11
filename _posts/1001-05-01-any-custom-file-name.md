@@ -2,9 +2,5 @@
 layout: post
 ---
 
-example of blockquotes
-
-As Grace Hopper said:
-> I’ve always been more interested 
-> in the future than in the past.
+![Tisch Roof](https://cdn.rawgit.com/Ryan-Sheehan/bad-design-presentation/cd82ebb2/images/tisch_roof.jpg)
 
